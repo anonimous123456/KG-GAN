@@ -1,0 +1,76 @@
+a001	paws
+a002	white
+a003	brown
+a004	long thin tail
+a005	black
+a006	long bushy tail
+a007	stripe
+a008	striped face
+a009	black foot
+a010	flying
+a011	compound eyes
+a012	yellow
+a013	leaf
+a014	small
+a015	antennae
+a016	grass
+a017	group
+a018	wood
+a019	broad wings
+a020	black wing-tips
+a021	shorter hind legs
+a022	short furry tail
+a023	spot
+a024	long furry tail
+a025	elongated rostrum
+a026	winter white
+a027	arctic
+a028	grey
+a029	black tip
+a030	rusty-grey
+a031	reddish-rusty
+a032	sliver
+a033	chicken-like bird
+a034	comb
+a035	mottled
+a036	orange patch
+a037	red patch
+a038	white underpart
+a039	reddish-brown
+a040	long thin legs
+a041	brown upperpart
+a042	long flat and wider bill
+a043	pink
+a044	snake scale
+a045	yellowish underside
+a046	thin body
+a047	light-green
+a048	bright-green
+a049	chain-like ring
+a050	red
+a051	triangle head
+a052	marking
+a053	yellow collar
+a054	dark-brown
+a055	longitudinal stripe
+a056	fingers
+a057	long thick tail
+a058	banded tail
+a059	white fluff
+a060	tawny
+a061	prehensile tail
+a062	buff
+a063	ocean
+a064	hammer-like head
+a065	short thin tail
+a066	white tail
+a067	white stripe
+a068	pig-like snout
+a069	hooked bill
+a070	forked tail
+a071	hairy
+a072	silver
+a073	reddish
+a074	yellow tip
+a075	spade-like head
+a076	sharp head

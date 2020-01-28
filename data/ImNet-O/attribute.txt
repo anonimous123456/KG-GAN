@@ -1,0 +1,38 @@
+a001	vegetable
+a002	bread
+a003	meat
+a004	oval
+a005	yellow
+a006	long-strip
+a007	sausage
+a008	cuboid
+a009	slice
+a010	circular
+a011	liquid
+a012	golden
+a013	triangular
+a014	sliced sausage
+a015	red
+a016	tortilla
+a017	roll
+a018	umbrella shaped
+a019	white cylinder
+a020	buff
+a021	mottled
+a022	globular
+a023	chocolate
+a024	pink
+a025	green
+a026	green leaf
+a027	cheese curd
+a028	meat sauce
+a029	brown
+a030	half-moon shape
+a031	buff head
+a032	small head
+a033	white spot
+a034	purple
+a035	strawberry
+a036	peach
+a037	dark green
+a038	wrap

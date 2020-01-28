@@ -1,0 +1,10 @@
+n07697313	cheeseburger
+n07697537	hotdog
+n07871810	meat_loaf
+n07584110	consomme
+n07873807	pizza
+n07880968	burrito
+n12998815	agaric
+n07614500	ice_cream
+n07718472	cucumber
+n07715103	cauliflower
